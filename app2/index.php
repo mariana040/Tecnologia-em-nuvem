@@ -2,6 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
+    <title>Formulário de contato</title>
 </head>
 <body>
     <h1>Fale conosco</h1>
