@@ -1,1 +1,0 @@
-# Tecnologia-em-nuvem
